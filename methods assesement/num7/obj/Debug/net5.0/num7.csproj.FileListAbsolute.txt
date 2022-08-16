@@ -1,0 +1,16 @@
+C:\Users\ADESANYA\Desktop\methods assesement\num7\bin\Debug\net5.0\num7.exe
+C:\Users\ADESANYA\Desktop\methods assesement\num7\bin\Debug\net5.0\num7.deps.json
+C:\Users\ADESANYA\Desktop\methods assesement\num7\bin\Debug\net5.0\num7.runtimeconfig.json
+C:\Users\ADESANYA\Desktop\methods assesement\num7\bin\Debug\net5.0\num7.runtimeconfig.dev.json
+C:\Users\ADESANYA\Desktop\methods assesement\num7\bin\Debug\net5.0\num7.dll
+C:\Users\ADESANYA\Desktop\methods assesement\num7\bin\Debug\net5.0\ref\num7.dll
+C:\Users\ADESANYA\Desktop\methods assesement\num7\bin\Debug\net5.0\num7.pdb
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\num7.csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\num7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\num7.AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\num7.AssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\num7.csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\num7.dll
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\ref\num7.dll
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\num7.pdb
+C:\Users\ADESANYA\Desktop\methods assesement\num7\obj\Debug\net5.0\num7.genruntimeconfig.cache

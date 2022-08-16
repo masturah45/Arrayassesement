@@ -1,0 +1,16 @@
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\num5.csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\num5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\num5.AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\num5.AssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\num5.csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Desktop\Array assesement\num5\bin\Debug\net5.0\num5.exe
+C:\Users\ADESANYA\Desktop\Array assesement\num5\bin\Debug\net5.0\num5.deps.json
+C:\Users\ADESANYA\Desktop\Array assesement\num5\bin\Debug\net5.0\num5.runtimeconfig.json
+C:\Users\ADESANYA\Desktop\Array assesement\num5\bin\Debug\net5.0\num5.runtimeconfig.dev.json
+C:\Users\ADESANYA\Desktop\Array assesement\num5\bin\Debug\net5.0\num5.dll
+C:\Users\ADESANYA\Desktop\Array assesement\num5\bin\Debug\net5.0\ref\num5.dll
+C:\Users\ADESANYA\Desktop\Array assesement\num5\bin\Debug\net5.0\num5.pdb
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\num5.dll
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\ref\num5.dll
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\num5.pdb
+C:\Users\ADESANYA\Desktop\Array assesement\num5\obj\Debug\net5.0\num5.genruntimeconfig.cache
